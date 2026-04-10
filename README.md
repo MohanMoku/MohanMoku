@@ -4,8 +4,8 @@
   [cite_start]<h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Mohan Kumar S [cite: 2]</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern+@+Echobrains;Final-Year+CS+Undergrad+🎓;Machine+Learning+Enthusiast+🤖;React+Native+App+Developer+📱" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern;Final-Year+CS+Undergrad;Machine+Learning+Enthusiast;React+Native+App+Developer" alt="Typing SVG" />
+</a>
   
   <br/>
   
@@ -86,15 +86,13 @@
 ## 📊 GitHub & LeetCode Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mohanmoku&theme=radical&margin-w=15&no-frame=true&no-bg=true&column=6" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohanmoku&theme=radical" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohanmoku&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Mohanmoku&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanmoku&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
