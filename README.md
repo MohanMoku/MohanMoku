@@ -1,7 +1,6 @@
 <div align="center">
   <img src="./Moku.JPG" alt="Mohan Kumar S" width="150" height="150" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
-  
-  [cite_start]<h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Mohan Kumar S [cite: 2]</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Mohan Kumar S [cite: 2]</h1>
   
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern;Final-Year+CS+Undergrad;Machine+Learning+Enthusiast;React+Native+App+Developer" alt="Typing SVG" />
