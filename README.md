@@ -106,17 +106,17 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <h3>🐍 My Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/Mohanmoku/Mohanmoku/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</div>
+  <img src="https://raw.githubusercontent.com/Mohanmoku/Mohanmoku/output/github-contribution-grid-snake.svg?v=1" alt="Contribution Snake" />
+</div> -->
 
 ---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-  [cite_start]<a href="https://linkedin.com/in/mo-ku-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> [cite: 3]
-  [cite_start]<a href="https://leetcode.com/u/mohanmoku"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a> [cite: 3]
-  [cite_start]<a href="mailto:mohanmoku2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> [cite: 3]
+  <a href="https://linkedin.com/in/mo-ku-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/mohanmoku"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="mailto:mohanmoku2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
