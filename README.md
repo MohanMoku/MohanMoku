@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./Moku.JPG" alt="Mohan Kumar S" width="150" height="150" style="border-radius: 50%; border: 4px solid #FF5722; box-shadow: 0 4px 15px rgba(255, 87, 34, 0.4);"/>
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Mohan Kumar S [cite: 2]</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasr14y3za/giphy.gif" width="35" /> Hi, I'm Mohan Kumar S</h1>
   
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Intern;Final-Year+CS+Undergrad;Machine+Learning+Enthusiast;React+Native+App+Developer" alt="Typing SVG" />
@@ -18,11 +18,11 @@
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        [cite_start]<li>🎓 I am a Final-year Computer Science undergraduate (2026) at SDM Institute of Technology with a CGPA of 8.95[cite: 4].</li>
-        <li>💼 Currently working as a Java Full Stack Intern at Echobrains, building web apps using Java, Spring Boot, and React.js[cite: 9, 10, 12].</li>
-        <li>💡 I have hands-on experience in full-stack development, Python scripting, Machine Learning, and mobile app development[cite: 5].</li>
-        <li>🚀 Strong foundation in OOP, DBMS, DSA, and Computer Networks[cite: 7].</li>
-        <li>🤝 Previously volunteered as a React Workshop Facilitator for final-year students[cite: 21, 24].</li>
+        <li>🎓 I am a Final-year Computer Science undergraduate (2026) at SDM Institute of Technology with a CGPA of 8.95.</li>
+        <li>💼 Currently working as a Java Full Stack Intern at Echobrains, building web apps using Java, Spring Boot, and React.js.</li>
+        <li>💡 I have hands-on experience in full-stack development, Python scripting, Machine Learning, and mobile app development.</li>
+        <li>🚀 Strong foundation in OOP, DBMS, DSA, and Computer Networks.</li>
+        <li>🤝 Previously volunteered as a React Workshop Facilitator for final-year students.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -36,16 +36,16 @@
 ## 💼 Experience & 🏆 Achievements
 
 **Work Experience**
-* [cite_start]**Java Full Stack Intern @ Echobrains** (Jan 2026 - Present) [cite: 9, 10, 11]
-  * [cite_start]Developing and maintaining RESTful APIs integrated with MySQL databases[cite: 13].
-  * [cite_start]Applying Git, CI/CD, MVC architecture, and best practices in an Agile environment[cite: 12, 14].
-* [cite_start]**Freelance React Native Developer** (Oct 2025 - Dec 2025) [cite: 15, 16, 17]
-  * [cite_start]Built Local Lens, a mobile app using React Native and Firebase for local service provider management[cite: 18].
+* **Java Full Stack Intern @ Echobrains** (Jan 2026 - Present)
+  * Developing and maintaining RESTful APIs integrated with MySQL databases.
+  * Applying Git, CI/CD, MVC architecture, and best practices in an Agile environment.
+* **Freelance React Native Developer** (Oct 2025 - Dec 2025)
+  * Built Local Lens, a mobile app using React Native and Firebase for local service provider management.
 
 **Key Achievements**
-* [cite_start]🥇 **1st Place:** Predict Ed Hackathon (Built an AI-powered platform classifying students into risk categories using React, Node, Python, and LLaMA)[cite: 54, 55, 56].
-* [cite_start]🥇 **1st Place:** Competitive Programming & DSA Coding Contest at SDM Institute of Technology[cite: 57].
-* [cite_start]🥈 **2nd Place:** Department Project Award[cite: 59].
+* 🥇 **1st Place:** Predict Ed Hackathon (Built an AI-powered platform classifying students into risk categories using React, Node, Python, and LLaMA).
+* 🥇 **1st Place:** Competitive Programming & DSA Coding Contest at SDM Institute of Technology.
+* 🥈 **2nd Place:** Department Project Award.
 
 ---
 
@@ -53,11 +53,11 @@
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| [cite_start]**Students Hub** [cite: 26] | [cite_start]`React.js`, `Node.js`, `MongoDB`, `Python`, `ML` [cite: 26] | [cite_start]Built an AI-powered peer-to-peer learning platform with REST APIs and AI-driven recommendation features[cite: 26, 27]. |
-| [cite_start]**E-Commerce Platform** [cite: 28] | [cite_start]`React.js`, `Node.js`, `Express`, `MongoDB` [cite: 28] | [cite_start]Built a full-stack e-commerce SPA with authentication, product management, and order tracking[cite: 31, 32]. |
-| [cite_start]**Dynamic Text Generation** [cite: 34] | [cite_start]`GPT-2`, `Python`, `NLP` [cite: 34] | [cite_start]Fine-tuned a GPT-2 transformer model for domain-specific text generation[cite: 35]. |
-| [cite_start]**Splitify** [cite: 42] | [cite_start]`Android Studio`, `Java`, `XML` [cite: 42] | [cite_start]Android app to automatically track and split group expenses[cite: 42]. |
-| [cite_start]**Spam Buster** [cite: 37] | [cite_start]`Python`, `scikit-learn` [cite: 37] | [cite_start]Developed a Python ML model to classify SMS messages as spam or ham[cite: 39]. |
+| **Students Hub** | `React.js`, `Node.js`, `MongoDB`, `Python`, `ML` | Built an AI-powered peer-to-peer learning platform with REST APIs and AI-driven recommendation features:. |
+| **E-Commerce Platform** | `React.js`, `Node.js`, `Express`, `MongoDB` | Built a full-stack e-commerce SPA with authentication, product management, and order tracking:. |
+| **Dynamic Text Generation** | `GPT-2`, `Python`, `NLP` | Fine-tuned a GPT-2 transformer model for domain-specific text generation. |
+| **Splitify** | `Android Studio`, `Java`, `XML` | Android app to automatically track and split group expenses. |
+| **Spam Buster** : 37] | `Python`, `scikit-learn` | Developed a Python ML model to classify SMS messages as spam or ham. |
 
 ---
 
